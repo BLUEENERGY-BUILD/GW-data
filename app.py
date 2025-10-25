@@ -9,7 +9,7 @@ from openpyxl import load_workbook
 import pandas as pd
 from io import BytesIO
 from openpyxl import load_workbook
-st.set_page_config(page_title="GW DATA FORM FOR REPORT-STAGE-1")
+st.set_page_config(page_title="INPUTX")
 image_url1 = "https://www.egr.msu.edu/hydrology/Home/hydro/Hydro_cycle_02.gif"
 image_url2 = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHN5MHNxdzNmYmlvZTd1NDdraGdqamJtODNpcWxlc2gyMHV6d3plcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bdlzpicqzu5SmLswrH/giphy.gif"
 image_url3 ="https://i.makeagif.com/media/11-10-2019/8XfJT6.gif"
@@ -828,6 +828,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
